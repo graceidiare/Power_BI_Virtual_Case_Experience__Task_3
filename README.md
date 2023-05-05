@@ -10,7 +10,7 @@ The above tasks were requested by the HR team. They’re looking for insights fo
 
 The database contained 5 tables, namely; backing 1, backing 2, backing 3, backing 4 and Pharm group AG.       
 
-Data Cleaning;    
+## Data Cleaning;    
 
 As I went through the different tables, I saw that there were very obvious differences between the tables.    
 Also, no data dictionary was provided to aid my understanding of what the columns were. However, some columns even tables seem irrelevant. I dropped all the tables except the Pharm group AG table.      
@@ -20,14 +20,14 @@ The table had 500 rows and 32 columns. These columns were;
 Employee ID, Gender, Job Level after FY20 promotions, New hire FY20?, FY20 Performance Rating, Promotion in FY21?, In base group for Promotion FY21, Target hire balance, FY20 leaver?, In base group for turnover FY20, Department @01.07.2020, Leaver FY, Job Level after FY21 promotions, Last Department in FY20, FTE group, Time type, Department & JL group PRA status, Department & JL group for PRA	Job Level group PRA status, Job Level group for PRA, Time in Job Level @01.07.2020, Job Level before FY20 promotions, Promotion in FY20?, FY19 Performance Rating	Age group, Age @01.07.2020, Nationality 1, Region group: nationality 1, Broad region group: nationality 1, Last hire date, Years since last hire, Rand.     
 
 The aforementioned columns in bold contained nulls. These nulls were as a result of the number of leavers and new hires in the company, therefore I didn’t drop any.     
-Data Transformation;      
+## Data Transformation;      
 
 I replaced all Y’s and N’s with Yes’s and No’s in New hire FY20, In base group for turnover FY20 and Promotion in FY20.       
 I extracted the years from the Last hire date column to determine how hiring has gone over the years.    
 
 No data modeling was required as the other tables were dropped.       
 
-Analysis and Visualization;     
+## Analysis and Visualization;     
  
 To get insights on hiring, performance and turnover, and promotion I queried the dataset with the following questions;       
 
