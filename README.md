@@ -31,8 +31,8 @@ _No data modeling was required as the other tables were dropped._
  
 To get insights on hiring, performance and turnover, and promotion I queried the dataset with the following questions;       
 
-1.	What are the demographics of the employees (this included gender, leavers, countries, employment type, age group, department and countries)         
-2.	Which gender was mostly hired over the years          
+1.	What are the demographics of the employees (this included gender, leavers, countries, employment type, age group, department and countries)?         
+2.	Which gender was mostly hired over the years?          
 3.	What was the hiring percentage?         
 4.	How was the company distributed by employment type and gender?         
 5.	Did employment type affect performance rating?          
