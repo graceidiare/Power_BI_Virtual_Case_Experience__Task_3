@@ -9,7 +9,7 @@ In this task, I’m asked to;
 
 The above tasks were requested by the HR team. They’re looking for insights to improve gender balance in the executive level as they are highly into diversity and inclusion.     
 
-The database contained 5 tables, namely; backing 1, backing 2, backing 3, backing 4 and Pharm group AG.       
+I was given a database which contained 5 table. Which were; backing 1, backing 2, backing 3, backing 4 and Pharm group AG.       
 
 ## Data Cleaning;    
 
