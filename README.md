@@ -1,6 +1,7 @@
 # Power_BI_Virtual_Case_Experience__Task_3
 
-This is the last task in the Virtual case experience with PwC. Find previous tasks and more context here.    
+This is the last task in the Virtual case experience with PwC. Find previous tasks and more context here.      
+
 In this task, I’m asked to;   
 
 •	Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualization     
