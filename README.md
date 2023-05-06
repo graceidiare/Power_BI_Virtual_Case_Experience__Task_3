@@ -14,7 +14,7 @@ I was given a database which contained 5 table. Which were; backing 1, backing 2
 ## Data Cleaning;    
 
 As I went through the different tables, I saw that there were very obvious differences between the tables.    
-Also, no data dictionary was provided to aid my understanding of what the columns were. However, some columns even tables seem irrelevant. I dropped all the tables except the Pharm group AG table.   
+Also, no data dictionary was provided to aid my understanding of what the columns were. However, some columns even tables seem irrelevant. I dropped all the tables except the Pharm group AG table. This was because it contained the necessary data I needed to carry out the tasks
 
 ![](inconsistentdata.png)
 
