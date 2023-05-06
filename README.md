@@ -59,7 +59,7 @@ The hiring percentage in 2020 was mild but of course relevant.
 ![](hiring.png)
 
 Earlier we noticed that there are more full-time employees than not. Most of them are males and just 2 males work as part-time employees, On the other hand, 33 females are part-time employees.           
-Most employees, both male and female were given the rating of 3 in FY19. This is not the same case in the next fiscal year, FY20. More employees have a rating of 2. However, there was a subtle increase in the highest rating, 5 females and 2 males were rated at 4.      
+Most employees, both male and female were given a rating of 3 in FY19. This is not the same case in the next fiscal year, FY20. More employees have a rating of 2. However, there was a subtle increase in the highest rating, 5 more females and 2 more males were rated at 4.      
 Interact with the dashboard to see how employment type affect performance rating.       
 
 ![](performancerating.png)
