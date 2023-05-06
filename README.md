@@ -75,7 +75,7 @@ Selection                       |        Positiom
 
 Currently, the executive level is occupied with 16 males and only 3 females. This is uneven.      
 
-Root Causes and Recommendations;       
+### Root Causes and Recommendations;       
 
 . The HR team has hired more males than females over the years. The team should continue to look into recruiting more females.    
 
