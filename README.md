@@ -40,7 +40,7 @@ To get insights on hiring, performance and turnover, and promotion I queried the
 4.	How was the company distributed by employment type and gender?         
 5.	Did employment type affect performance rating?          
 6.	How many people were selected for promotion? How many were promoted?          
-7.	What were the promotion percentage between gender?          
+7.	What was the promotion percentage between gender?          
 8.	What gender more promoted in the Executive level and other levels?        
 
 The Company's demographics shows the following; There are 295 males and 205 females, out of which 47 have left the company. The company is mostly populated by employees of the full time employment type. Most employees fall within age 20 and age 39. It is also interesting to see that there are employees who are above 60. It turns out that they are only males and 2 out of the 4 are in the executive team.   
