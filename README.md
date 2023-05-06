@@ -69,7 +69,8 @@ This is little increase from the previous year, were only 7.2% were promoted; 5.
 The largest and lowest job level of employees are junior managers, most of which are females. Other job levels have more males.         
 As the job level increases, the number of female employees decreases. This is especially evident in level 1 and level 2 for executives and directors respectively.     
 
-:------------------------------:|:-----------------------------|
+Selection                       |        Positiom
+:------------------------------:|-----------------------------
 ![](promotionselection.png)     | ![](jobpromotion.png)
 
 Currently, the executive level is occupied with 16 males and only 3 females. This is uneven.      
