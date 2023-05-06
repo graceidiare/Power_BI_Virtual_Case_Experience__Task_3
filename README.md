@@ -7,7 +7,7 @@ In this task, I’m asked to;
 •	Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualization     
 •	Write what you think some root causes of their slow progress might be       
 
-The above tasks were requested by the HR team. They’re looking for insights for improving gender balance in the executive level as they are highly into diversity and inclusion.     
+The above tasks were requested by the HR team. They’re looking for insights to improve gender balance in the executive level as they are highly into diversity and inclusion.     
 
 The database contained 5 tables, namely; backing 1, backing 2, backing 3, backing 4 and Pharm group AG.       
 
