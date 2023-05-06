@@ -13,7 +13,8 @@ The database contained 5 tables, namely; backing 1, backing 2, backing 3, backin
 ## Data Cleaning;    
 
 As I went through the different tables, I saw that there were very obvious differences between the tables.    
-Also, no data dictionary was provided to aid my understanding of what the columns were. However, some columns even tables seem irrelevant. I dropped all the tables except the Pharm group AG table.      
+Also, no data dictionary was provided to aid my understanding of what the columns were. However, some columns even tables seem irrelevant. I dropped all the tables except the Pharm group AG table.          
+![](inconsistentdata.png)
 
 The table had 500 rows and 32 columns. These columns were;     
 
