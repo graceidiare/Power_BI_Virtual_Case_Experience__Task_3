@@ -49,7 +49,7 @@ The Company's demographics shows the following; There are 295 males and 205 fema
 
 ![](demographics.png)
 
-Operations is the largest department, after which is the Internal Services. It shows that all the departments have more males than females.        
+Operations is the largest department, after which is the Internal Services department. It shows that all the departments have more males than females.        
 PhoneNow is operational in 22 countries. As expected, it's Switzerland headquarters holds more than half of all her employees, The other large chunk is distributed across the Europe region and on the top of that region are countries like France, Germany, Italy, United Kingdom, Spain.          
 The gender disparity in most of these countries are glaring. In her headquarters, there are 169 males and only 95 females. France which is the second largest office has 59 males and only 36 females.       
 
